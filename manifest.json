@@ -8,5 +8,10 @@
         "name": "FamiCrank",
         "maintainer": "Giorgio Pomettini",
         "href": "https://raw.githubusercontent.com/pomettini/nofrendo/refs/heads/master/ce.json"
+    },
+    {
+        "name": "PicoDate",
+        "maintainer": "Serhii Nazarenko",
+        "href": "https://raw.githubusercontent.com/Agentx86/PicoDate-emucore/refs/heads/main/ce.json"
     }
 ]
